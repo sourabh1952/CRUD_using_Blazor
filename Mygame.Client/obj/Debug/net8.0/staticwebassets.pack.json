@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/home/sourabh/Desktop/Gamestore/Mygame.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/sourabh/Desktop/Gamestore/Mygame.Client/obj/Debug/net8.0/compressed/pb1lalhqsd.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/sourabh/Desktop/Gamestore/Mygame.Client/obj/Debug/net8.0/scopedcss/bundle/game.styles.css",
+      "PackagePath": "staticwebassets/game.styles.css"
+    },
+    {
+      "Id": "/home/sourabh/Desktop/Gamestore/Mygame.Client/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/sourabh/Desktop/Gamestore/Mygame.Client/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/sourabh/Desktop/Gamestore/Mygame.Client/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/sourabh/Desktop/Gamestore/Mygame.Client/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/sourabh/Desktop/Gamestore/Mygame.Client/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/sourabh/Desktop/Gamestore/Mygame.Client/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.game.props",
+      "PackagePath": "build\\game.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.game.props",
+      "PackagePath": "buildMultiTargeting\\game.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.game.props",
+      "PackagePath": "buildTransitive\\game.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.game.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
